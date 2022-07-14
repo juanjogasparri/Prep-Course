@@ -51,7 +51,7 @@ function tieneEmail (usuario) {
 
 function tienePropiedad (objeto, propiedad) {
   // Devuelve "true" si el objeto (parámetro "objeto") tiene una propiedad (key) cuyo nombre es igual al valor del argumento "propiedad"
-  // "propiedad" es un string
+  // "propiedad" es un string hola
   // De lo contrario, devuelve "false"
   // Tu código:
 }
